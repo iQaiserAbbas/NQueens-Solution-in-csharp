@@ -1,0 +1,30 @@
+D:\projects\Visual Code\Visual Code\bin\Debug\Visual Code.exe
+D:\projects\Visual Code\Visual Code\bin\Debug\Visual Code.pdb
+D:\projects\Visual Code\Visual Code\obj\x86\Debug\Visual_Code.Form1.resources
+D:\projects\Visual Code\Visual Code\obj\x86\Debug\Visual_Code.Properties.Resources.resources
+D:\projects\Visual Code\Visual Code\obj\x86\Debug\Visual Code.csproj.GenerateResource.Cache
+D:\projects\Visual Code\Visual Code\obj\x86\Debug\Visual Code.exe
+D:\projects\Visual Code\Visual Code\obj\x86\Debug\Visual Code.pdb
+D:\Git Uploads\NQueenProject\Visual Code\obj\x86\Debug\Visual Code.exe
+D:\Git Uploads\NQueenProject\Visual Code\obj\x86\Debug\Visual Code.pdb
+D:\Git Uploads\NQueenProject\Visual Code\bin\Debug\Visual Code.exe
+D:\Git Uploads\NQueenProject\Visual Code\bin\Debug\Visual Code.pdb
+D:\Git Uploads\NQueenProject\Visual Code\obj\x86\Debug\Visual_Code.Properties.Resources.resources
+D:\Git Uploads\NQueenProject\Visual Code\obj\x86\Debug\Visual Code.csproj.GenerateResource.Cache
+D:\Git Uploads\NQueenProject\Visual Code\obj\x86\Debug\Visual Code.csprojAssemblyReference.cache
+D:\Git Uploads\NQueenProject\Visual Code\obj\x86\Debug\Visual Code.csproj.CoreCompileInputs.cache
+D:\Git Uploads\NQueenProject\Visual Code\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Git Uploads\NQueenProject\Visual Code\bin\Debug\Guna.UI.dll
+D:\Git Uploads\NQueenProject\Visual Code\obj\x86\Debug\Visual_Code.Welcome.resources
+D:\Git Uploads\NQueenProject\Visual Code\obj\x86\Debug\Visual Code.csproj.CopyComplete
+D:\Git Uploads\NQueenProject\Visual Code\obj\x86\Debug\Visual_Code.Nqueen.resources
+Q:\Qaiser\Software Engineering\BSE 3B\Data structure & Algorithm lab\Projects\NQueen Final Project\Visual Code\bin\Debug\Visual Code.exe
+Q:\Qaiser\Software Engineering\BSE 3B\Data structure & Algorithm lab\Projects\NQueen Final Project\Visual Code\bin\Debug\Visual Code.pdb
+Q:\Qaiser\Software Engineering\BSE 3B\Data structure & Algorithm lab\Projects\NQueen Final Project\Visual Code\obj\x86\Debug\Visual Code.csprojAssemblyReference.cache
+Q:\Qaiser\Software Engineering\BSE 3B\Data structure & Algorithm lab\Projects\NQueen Final Project\Visual Code\obj\x86\Debug\Visual_Code.Nqueen.resources
+Q:\Qaiser\Software Engineering\BSE 3B\Data structure & Algorithm lab\Projects\NQueen Final Project\Visual Code\obj\x86\Debug\Visual_Code.Properties.Resources.resources
+Q:\Qaiser\Software Engineering\BSE 3B\Data structure & Algorithm lab\Projects\NQueen Final Project\Visual Code\obj\x86\Debug\Visual_Code.Welcome.resources
+Q:\Qaiser\Software Engineering\BSE 3B\Data structure & Algorithm lab\Projects\NQueen Final Project\Visual Code\obj\x86\Debug\Visual Code.csproj.GenerateResource.cache
+Q:\Qaiser\Software Engineering\BSE 3B\Data structure & Algorithm lab\Projects\NQueen Final Project\Visual Code\obj\x86\Debug\Visual Code.csproj.CopyComplete
+Q:\Qaiser\Software Engineering\BSE 3B\Data structure & Algorithm lab\Projects\NQueen Final Project\Visual Code\obj\x86\Debug\Visual Code.exe
+Q:\Qaiser\Software Engineering\BSE 3B\Data structure & Algorithm lab\Projects\NQueen Final Project\Visual Code\obj\x86\Debug\Visual Code.pdb
