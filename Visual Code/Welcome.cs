@@ -37,7 +37,8 @@ namespace Visual_Code
 
         private void gunaCirclePictureBox1_Click(object sender, EventArgs e)
         {
-            this.Close();
+         this.close();
+         Application.Exit();
         }
 
         //private void pictureBox2_Click(object sender, EventArgs e)
@@ -49,8 +50,8 @@ namespace Visual_Code
         private void pictureBox2_Click_1(object sender, EventArgs e)
         {
             this.Hide();
-            Nqueen frm = new Nqueen();
-            frm.Show();
+            Nqueen form = new Nqueen();
+            form.Show();
         }
 
         //private void gunaCirclePictureBox3_Click(object sender, EventArgs e)
