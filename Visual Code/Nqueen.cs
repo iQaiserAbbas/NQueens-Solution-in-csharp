@@ -13,6 +13,7 @@ namespace Visual_Code
     {
         int first=0;
         bool refresh = false;
+        int a = 0;
         public Nqueen()
         {
             InitializeComponent();
